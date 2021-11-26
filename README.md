@@ -1,12 +1,10 @@
-![BannerGIF](https://user-images.githubusercontent.com/39513876/112361914-e021f800-8cf9-11eb-9aac-a2b675065afc.gif)
-
+![videotogif_2021 11 26_18 55 59](https://user-images.githubusercontent.com/95083091/143589408-5e323e2d-92ca-4177-9bf6-b614c396510e.gif)
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
-![version :20.08.2021](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=AbhishekSinghDhadwal&color=red)&nbsp;
-[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/AbhishekSinghDhadwal?label=follow&style=social)](https://github.com/AbhishekSinghDhadwal)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=ShinobiNetwork&color=blue)&nbsp;
+[![GitHub SHINOBI](https://img.shields.io/github/followers/AbhishekSinghDhadwal?label=follow&style=social)](https://github.com/ShinobiNetwork)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About Us
 
 💡 &nbsp; I'm a software developer and researcher at Credit Suisse, working on production of trading applications using the .NET framework. \
 💻 &nbsp;I'm currently performing research in the field of multimodal detection of human behavioral patterns at VNIT, Nagpur.\
