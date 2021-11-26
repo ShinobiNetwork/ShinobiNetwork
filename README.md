@@ -27,8 +27,3 @@
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
 ![JMH](https://img.shields.io/badge/JMH%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)&nbsp;
-
-
-### 🤝 Reach Us
-
-<a href="https://t.me/ShinobiNet"><img alt="Telegram" src="https://user-images.githubusercontent.com/95083091/143592515-8922d18e-a0d0-43d9-9bdb-3a25bc21f04a.jpg?&style=flat&logo=Telegram&logoColor=blue"/></a> &nbsp;
