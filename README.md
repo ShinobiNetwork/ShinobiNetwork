@@ -27,3 +27,9 @@
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
 ![JMH](https://img.shields.io/badge/JMH%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)&nbsp;
+
+### Reach Us 🤝
+
+![Telegram Badge](https://img.shields.io/badge/-CustomIcon-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/SHINOBINET)
+
+[![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40AnimeSync&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DAnimeSync&longCache=true%22)](https://t.me/AnimeSync)
